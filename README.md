@@ -17,7 +17,9 @@ branch.
 Create the correct project structure - files and folders - for each assignment.
 Push the changes to your repo and merge those changes to the main branch.
 Submit your Github repo link to FOL.
-Submission:
+
+##Submission:
+
 Homework must be submitted by Class of Week 5 at 530PM (EST)
 - Github repo named correctly (lastName_firstInitial_HW1):
 - readme.md file
@@ -25,12 +27,12 @@ Homework must be submitted by Class of Week 5 at 530PM (EST)
 - development branch(es)
 - Name the branches appropriately per feature IE des.tvr.artwork, dev.tvr.script
 - Correct structure for a web project (css, js, images and index.html)
-- 
+
 Submit the repo link via FOL dropbox
 DO NOT SUBMIT ZIPPED FILES
 ONLY THE MAIN BRANCH WILL BE GRADED
 
-Additional Information:
+##Additional Information:
 
 Missed tests/exams will not be rescheduled without some valid evidence of some important
 event over which the student has no control (e.g., Court appearance, death in the family).
