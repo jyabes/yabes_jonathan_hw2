@@ -25,10 +25,13 @@ Homework must be submitted by Class of Week 5 at 530PM (EST)
 - development branch(es)
 - Name the branches appropriately per feature IE des.tvr.artwork, dev.tvr.script
 - Correct structure for a web project (css, js, images and index.html)
+- 
 Submit the repo link via FOL dropbox
 DO NOT SUBMIT ZIPPED FILES
 ONLY THE MAIN BRANCH WILL BE GRADED
+
 Additional Information:
+
 Missed tests/exams will not be rescheduled without some valid evidence of some important
 event over which the student has no control (e.g., Court appearance, death in the family).
 Missed tests or exams, therefore, can receive a zero. The students are advised to notify the
@@ -45,6 +48,7 @@ receive a mark of zero. Late assignments and make-up tests will only be permitte
 the submission of adequate documentation acceptable to the instructor (e.g., a doctor's
 note). Students are advised to notify the instructor prior to missing an assignment due date
 or a scheduled test.
+
 Immediately upon return from an illness/absence in which a test or assignment has been
 missed, the student is responsible for contacting the course instructor to discuss the
 problem. The instructor will make arrangements for any student deemed eligible. The
